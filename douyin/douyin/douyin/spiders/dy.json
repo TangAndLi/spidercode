@@ -1,0 +1,259 @@
+{
+	'max_cursor': 1531135655000,
+	'aweme_list': [{
+		'risk_infos': {
+			'warn': False,
+			'content': '',
+			'risk_sink': False,
+			'type': 0
+		},
+		'label_top': {
+			'url_list': ['https://p1.pstatp.com/obj/729f0000ef991e85fccf', 'https://pb3.pstatp.com/obj/729f0000ef991e85fccf', 'https://pb3.pstatp.com/obj/729f0000ef991e85fccf'],
+			'uri': '729f0000ef991e85fccf'
+		},
+		'author_user_id': 62114801862,
+		'item_comment_settings': 0,
+		'rate': 12,
+		'create_time': 1530434930,
+		'video': {
+			'ratio': '720p',
+			'origin_cover': {
+				'url_list': ['http://p3.pstatp.com/large/9497000bf14623112307.jpeg', 'http://pb9.pstatp.com/large/9497000bf14623112307.jpeg', 'http://pb3.pstatp.com/large/9497000bf14623112307.jpeg'],
+				'uri': 'large/9497000bf14623112307'
+			},
+			'play_addr': {
+				'url_list': ['https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=0&ratio=720p&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0', 'https://api.amemv.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=0&ratio=720p&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0', 'https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=1&ratio=720p&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0', 'https://api.amemv.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=1&ratio=720p&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0'],
+				'uri': 'v0200ff50000bcs99nrivfcpchti68d0'
+			},
+			'cover': {
+				'url_list': ['https://p1.pstatp.com/aweme/300x400/9472000ef23fd81628b0.jpeg', 'https://pb3.pstatp.com/aweme/300x400/9472000ef23fd81628b0.jpeg', 'https://pb3.pstatp.com/aweme/300x400/9472000ef23fd81628b0.jpeg'],
+				'uri': '300x400/9472000ef23fd81628b0'
+			},
+			'height': 960,
+			'width': 540,
+			'bit_rate': [{
+				'bit_rate': 1227810,
+				'gear_name': 'normal',
+				'quality_type': 0
+			}, {
+				'bit_rate': 425681,
+				'gear_name': 'demotion',
+				'quality_type': 0
+			}],
+			'download_addr': {
+				'url_list': ['https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=0&ratio=720p&watermark=1&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0', 'https://api.amemv.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=0&ratio=720p&watermark=1&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0', 'https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=1&ratio=720p&watermark=1&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0', 'https://api.amemv.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=1&ratio=720p&watermark=1&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0'],
+				'uri': 'v0200ff50000bcs99nrivfcpchti68d0'
+			},
+			'has_watermark': True,
+			'duration': 15000,
+			'play_addr_lowbr': {
+				'url_list': ['https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=0&ratio=720p&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0', 'https://api.amemv.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=0&ratio=720p&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0', 'https://aweme.snssdk.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=1&ratio=720p&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0', 'https://api.amemv.com/aweme/v1/play/?video_id=v0200ff50000bcs99nrivfcpchti68d0&line=1&ratio=720p&media_type=4&vr_type=0&test_cdn=None&improve_bitrate=0'],
+				'uri': 'v0200ff50000bcs99nrivfcpchti68d0'
+			},
+			'dynamic_cover': {
+				'url_list': ['https://p3.pstatp.com/obj/9494000a2a3096fe59b1', 'https://pb9.pstatp.com/obj/9494000a2a3096fe59b1', 'https://pb3.pstatp.com/obj/9494000a2a3096fe59b1'],
+				'uri': '9494000a2a3096fe59b1'
+			}
+		},
+		'aweme_id': '6573167341784272131',
+		'video_labels': [],
+		'is_vr': False,
+		'vr_type': 0,
+		'statistics': {
+			'play_count': 0,
+			'aweme_id': '6573167341784272131',
+			'comment_count': 7563,
+			'share_count': 18195,
+			'digg_count': 1130572
+		},
+		'author': {
+			'authority_status': 0,
+			'weibo_schema': '',
+			'uid': '62114801862',
+			'bind_phone': '',
+			'weibo_url': '',
+			'share_qrcode_uri': '24a200336c99b9fc7485',
+			'live_agreement_time': 1529306941,
+			'youtube_channel_id': '',
+			'weibo_name': '',
+			'video_icon': {
+				'url_list': [],
+				'uri': ''
+			},
+			'commerce_user_level': 0,
+			'avatar_larger': {
+				'url_list': ['https://p3.pstatp.com/aweme/1080x1080/93b000053eeb354d5ad6.jpeg', 'https://pb9.pstatp.com/aweme/1080x1080/93b000053eeb354d5ad6.jpeg', 'https://pb3.pstatp.com/aweme/1080x1080/93b000053eeb354d5ad6.jpeg'],
+				'uri': '93b000053eeb354d5ad6'
+			},
+			'create_time': 1497670499,
+			'live_agreement': 1,
+			'enterprise_verify_reason': '',
+			'original_music_qrcode': None,
+			'is_ad_fake': False,
+			'verify_info': '',
+			'google_account': '',
+			'constellation': 1,
+			'youtube_channel_title': '',
+			'story_open': False,
+			'school_type': 0,
+			'duet_setting': 0,
+			'accept_private_policy': False,
+			'need_recommend': 0,
+			'short_id': '26065930',
+			'twitter_id': '',
+			'prevent_download': False,
+			'is_gov_media_vip': False,
+			'verification_type': 1,
+			'status': 1,
+			'account_region': '',
+			'neiguang_shield': 0,
+			'room_id': 0,
+			'avatar_medium': {
+				'url_list': ['https://p3.pstatp.com/aweme/720x720/93b000053eeb354d5ad6.jpeg', 'https://pb9.pstatp.com/aweme/720x720/93b000053eeb354d5ad6.jpeg', 'https://pb3.pstatp.com/aweme/720x720/93b000053eeb354d5ad6.jpeg'],
+				'uri': '93b000053eeb354d5ad6'
+			},
+			'reflow_page_gid': 0,
+			'avatar_thumb': {
+				'url_list': ['https://p3.pstatp.com/aweme/100x100/93b000053eeb354d5ad6.jpeg', 'https://pb9.pstatp.com/aweme/100x100/93b000053eeb354d5ad6.jpeg', 'https://pb3.pstatp.com/aweme/100x100/93b000053eeb354d5ad6.jpeg'],
+				'uri': '93b000053eeb354d5ad6'
+			},
+			'is_binded_weibo': False,
+			'is_verified': True,
+			'video_icon_virtual_URI': '',
+			'twitter_name': '',
+			'hide_search': False,
+			'user_canceled': False,
+			'original_music_cover': None,
+			'with_commerce_entry': True,
+			'apple_account': 0,
+			'follow_status': 0,
+			'school_name': '',
+			'has_orders': False,
+			'reflow_page_uid': 0,
+			'birthday': '2014-04-02',
+			'custom_verify': '',
+			'ins_id': '',
+			'user_rate': 1,
+			'nickname': '柴犬露妃和露娜',
+			'special_lock': 0,
+			'comment_setting': 0,
+			'live_verify': 2,
+			'shield_follow_notice': 0,
+			'shield_comment_notice': 0,
+			'shield_digg_notice': 0,
+			'hide_location': False,
+			'gender': 2,
+			'region': 'CN',
+			'secret': 0,
+			'unique_id_modify_time': 1531138076,
+			'follower_status': 0,
+			'school_poi_id': '',
+			'has_email': False,
+			'policy_version': {},
+			'avatar_uri': '93b000053eeb354d5ad6',
+			'signature': '赤柴露妃和黑柴露娜的幸福生活～\nwb：肥妃美娜\nv💙：554588040',
+			'geofencing': [],
+			'weibo_verify': '',
+			'is_phone_binded': False,
+			'unique_id': 'shibaluffy'
+		},
+		'cmt_swt': False,
+		'share_url': 'https://www.amemv.com/share/video/6573167341784272131/?mid=6564623123050662664',
+		'is_ads': False,
+		'music': {
+			'extra': '{"has_edited": 0}',
+			'is_original': False,
+			'offline_desc': '',
+			'source_platform': 22,
+			'audio_track': {
+				'url_list': ['https://p3.pstatp.com/obj/8d6d002361bb5b4772c5', 'https://pb9.pstatp.com/obj/8d6d002361bb5b4772c5', 'https://pb3.pstatp.com/obj/8d6d002361bb5b4772c5'],
+				'uri': '8d6d002361bb5b4772c5'
+			},
+			'duration': 43,
+			'is_del_video': False,
+			'id': 6564623123050662664,
+			'redirect': False,
+			'user_count': 0,
+			'title': '猫になりたい',
+			'play_url': {
+				'url_list': ['http://p1.pstatp.com/obj/8d99000542042aa58316'],
+				'uri': 'http://p1.pstatp.com/obj/8d99000542042aa58316'
+			},
+			'mid': '6564623123050662664',
+			'id_str': '6564623123050662664',
+			'is_restricted': 0,
+			'schema_url': '',
+			'status': 1,
+			'is_video_self_see': False,
+			'cover_large': {
+				'url_list': ['http://p3.pstatp.com/live/720x720/8d70001ab7c77e3f0e5f.jpeg'],
+				'uri': '8d70001ab7c77e3f0e5f'
+			},
+			'effects_data': {
+				'url_list': ['https://p1.pstatp.com/obj/8d73000aabeb3b5f4798', 'https://pb3.pstatp.com/obj/8d73000aabeb3b5f4798', 'https://pb3.pstatp.com/obj/8d73000aabeb3b5f4798'],
+				'uri': '8d73000aabeb3b5f4798'
+			},
+			'cover_thumb': {
+				'url_list': ['http://p3.pstatp.com/live/100x100/8d70001ab7c77e3f0e5f.jpeg'],
+				'uri': '8d70001ab7c77e3f0e5f'
+			},
+			'cover_hd': {
+				'url_list': ['http://p3.pstatp.com/live/1080x1080/8d70001ab7c77e3f0e5f.jpeg'],
+				'uri': '8d70001ab7c77e3f0e5f'
+			},
+			'author_deleted': False,
+			'author': 'つじあやの',
+			'cover_medium': {
+				'url_list': ['http://p3.pstatp.com/live/200x200/8d70001ab7c77e3f0e5f.jpeg'],
+				'uri': '8d70001ab7c77e3f0e5f'
+			}
+		},
+		'bodydance_score': 0,
+		'is_hash_tag': 0,
+		'status': {
+			'with_goods': False,
+			'allow_comment': True,
+			'is_delete': False,
+			'allow_share': True,
+			'in_reviewing': False,
+			'private_status': 0,
+			'with_fusion_goods': False,
+			'is_private': False
+		},
+		'sort_label': '',
+		'descendants': {
+			'platforms': ['toutiao'],
+			'notify_msg': '头条/火山'
+		},
+		'share_info': {
+			'share_weibo_desc': '#在抖音，记录美好生活#虽然你洗澡一直很乖 不过最后抬手的那一下还是融化老母亲的心哦～',
+			'bool_persist': 0,
+			'share_quote': '',
+			'share_title': '虽然你洗澡一直很乖 不过最后抬手的那一下还是融化老母亲的心哦～',
+			'share_signature_desc': 'Tik Tok - video social network',
+			'share_signature_url': 'https://tiktokv.com/',
+			'share_link_desc': '#在抖音，记录美好生活#虽然你洗澡一直很乖 不过最后抬手的那一下还是融化老母亲的心哦～ %s 复制此链接，打开【抖音短视频】，直接观看视频！',
+			'share_url': 'https://www.iesdouyin.com/share/video/6573167341784272131/?region=CN&mid=6564623123050662664&titleType=title',
+			'share_desc': '在抖音，记录美好生活'
+		},
+		'video_text': [],
+		'is_top': 0,
+		'collect_stat': False,
+		'aweme_type': 0,
+		'desc': '虽然你洗澡一直很乖 不过最后抬手的那一下还是融化老母亲的心哦～',
+		'geofencing': [],
+		'region': 'CN',
+		'is_pgcshow': False,
+		'is_relieve': False,
+		'text_extra': [],
+		'user_digged': 0
+	}],
+	'extra': {
+		'logid': '201807092007560100130410250206DA',
+		'now': 1531138076133,
+		'fatal_item_ids': []
+	},
+	'has_more': 1,
+	'status_code': 0,
+	'min_cursor': 1531135655000
+}
